@@ -8,3 +8,6 @@
 
 使用视频教程链接：
 
+推荐一下可以屏蔽广告的Hosts：
+https://github.com/E7KMbb/AD-hosts/blob/master/system/etc/hosts
+下载替换hosts文件刷入就可以了
