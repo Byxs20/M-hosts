@@ -1,7 +1,0 @@
-# id 只能填 字母 数字 半角符号
-id=M-Hosts
-name=M-Hosts
-version=v1
-versionCode=1
-author=Byxs20
-description=修改Hosts 可以跳过广告之类 (主要帮助手机无法挂载system分区的朋友修改Hosts)
